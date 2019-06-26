@@ -15,6 +15,6 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 
 * [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 
-# Git
+## Git
 
 * [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide)
