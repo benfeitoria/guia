@@ -5,6 +5,7 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 ## Geral
 
 * Sintaxe em inglês
+* Nunca, mas nunca use Hungarian Notation
 
 ## PHP
 
