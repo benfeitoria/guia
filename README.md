@@ -11,6 +11,8 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 
 * [PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)
 * [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
+* [PHP The Right Way](https://phptherightway.com/)
+* [PHP Delusions](https://phpdelusions.net/)
 
 ### Laravel
 
@@ -18,4 +20,5 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 
 ## Git
 
+* [Using git-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
 * [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide)
