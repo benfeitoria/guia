@@ -1,4 +1,4 @@
-# Guia de práticas de desenvolvimento da Benfeitoria
+# Guia de boas práticas de desenvolvimento da Benfeitoria
 
 Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a qualidade de código das aplicações.
 
