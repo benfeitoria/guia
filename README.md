@@ -7,6 +7,10 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 * Sintaxe em inglês
 * Nunca, mas nunca use Hungarian Notation
 
+## CSS
+
+* [BEM Methodology](http://getbem.com/)
+
 ## PHP
 
 * [PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)
