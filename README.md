@@ -10,6 +10,7 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 ## CSS
 
 * [BEM Methodology](http://getbem.com/)
+* [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/)
 
 ## PHP
 
@@ -17,6 +18,7 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 * [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
 * [PHP The Right Way](https://phptherightway.com/)
 * [PHP Delusions](https://phpdelusions.net/)
+* [PHP Design Patterns](https://refactoring.guru/design-patterns/php)
 
 ### Laravel
 
