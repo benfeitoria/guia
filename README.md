@@ -14,6 +14,7 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 
 ## PHP
 
+* [Keep your PHP code well documented](https://www.sitepoint.com/keeping-php-code-well-documented/)
 * [PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)
 * [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
 
