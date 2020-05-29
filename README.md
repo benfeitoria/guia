@@ -16,6 +16,9 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 
 * [PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)
 * [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
+
+### Referências
+
 * [PHP The Right Way](https://phptherightway.com/)
 * [PHP Delusions](https://phpdelusions.net/)
 * [PHP Design Patterns](https://refactoring.guru/design-patterns/php)
