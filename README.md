@@ -7,6 +7,14 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 * Sintaxe em inglês
 * Nunca, mas nunca use Hungarian Notation
 
+## CI
+
+* Novas features devem sempre ser acompanhadas de testes unitários e de integração.
+* Novas features devem ser revisadas por outro membro do time de desenvolvimento antes de serem integradas ao próximo release.
+* Novas features devem ser criadas em um novo branch e permanecerem no mesmo até o momento de serem incorporadas a algum release.
+* Novas features não devem ser incorporadas a um release caso os testes automatizados não sejam executados corretamente.
+* Caso um teste unitário seja executado incorretamente, se possível corrija imediatamente ou avise ao autor da mudança que gerou o problema.
+
 ## CSS
 
 * [BEM Methodology](http://getbem.com/)
