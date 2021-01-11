@@ -10,6 +10,7 @@ Abaixo seguem algumas orientações que tem como objetivo garantir minimamente a
 ## CI
 
 * Novas features devem sempre ser acompanhadas de testes unitários e de integração.
+* Novas features devem sempre alcançar pelo menos 80% de cobertura de código.
 * Novas features devem ser revisadas por outro membro do time de desenvolvimento antes de serem integradas ao próximo release.
 * Novas features devem ser criadas em um novo branch e permanecerem no mesmo até o momento de serem incorporadas a algum release.
 * Novas features não devem ser incorporadas a um release caso os testes automatizados não sejam executados corretamente.
